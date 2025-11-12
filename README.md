@@ -2,7 +2,7 @@
 
 **`Dev.JR / Design UX / TI `**
 
-Me chamo Kaio Kevin Nunes, tenho 21 anos e sou natural de Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unieuro. Sou apaixonado por tecnologia e gosto de compartilhar meus conhecimentos nas minhas redes, como [Linkedin](https://www.linkedin.com/in/kaiokevin)e[Instagram](https://www.instagram.com/kaiokevinn) onde também aprendo muito com aqueles que engajam e compartilham suas vivências!
+Me chamo Kaio Kevin Nunes, tenho 21 anos e sou natural de Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unieuro. Sou apaixonado por tecnologia e gosto de compartilhar meus conhecimentos nas minhas redes, como [Linkedin](https://www.linkedin.com/in/kaiokevin) e [Instagram](https://www.instagram.com/kaiokevinn) onde também aprendo muito com aqueles que engajam e compartilham suas vivências!
 
 <p align="left">
       <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
