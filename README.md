@@ -97,9 +97,17 @@ align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 />
+<img 
+align="left" 
+    alt="Windows 11" 
+    title="Windows 11"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
+          
+ 
 
 
-    
 <br/>
 <br/>
 
